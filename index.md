@@ -4,8 +4,8 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Mapping Impacts to Wildlife Along NH-37 in Assam, India](https://www.personal.psu.edu/gcs5243/FinalProject/)
+<img src="images/Roadkill_App.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
