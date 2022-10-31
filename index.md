@@ -13,8 +13,7 @@ Written for the Center for Large Landscape Conservation as part of the Linear In
 Skills Used: Python (ArcPy), ArcGIS Pro
 
 ---
-### [Spatial Analysis: Mitigating Impacts to Wildlife During the Expansion of
-National Highway 37 in Assam, India](https://largelandscapes.org/wp-content/uploads/2021/09/LISA_Annex1_SpatialAnalysis_FINAL.pdf#page=53)
+### [Spatial Analysis: Mitigating Impacts to Wildlife During the Expansion of National Highway 37 in Assam, India](https://largelandscapes.org/wp-content/uploads/2021/09/LISA_Annex1_SpatialAnalysis_FINAL.pdf#page=53)
 <img src="images/Assam_Maps_Thumb.png?raw=true"/>
 
 Written for the Center for Large Landscape Conservation as part of the Linear Infrastructure Safeguards for Asia Project
@@ -22,8 +21,7 @@ Written for the Center for Large Landscape Conservation as part of the Linear In
 Skills Used: ArcMap (optimized hotspot analysis)
 
 ---
-### [Spatial Analysis: Potential Impacts of Planned Paved Roads and Railways in
-Mongolia on Khulan and Goitered Gazelle](https://largelandscapes.org/wp-content/uploads/2021/09/LISA_Annex1_SpatialAnalysis_FINAL.pdf#page=70)
+### [Spatial Analysis: Potential Impacts of Planned Paved Roads and Railways in Mongolia on Khulan and Goitered Gazelle](https://largelandscapes.org/wp-content/uploads/2021/09/LISA_Annex1_SpatialAnalysis_FINAL.pdf#page=70)
 <img src="images/Ungulate_Map_Thumb.png?raw=true"/>
 
 Written for the Center for Large Landscape Conservation as part of the Linear Infrastructure Safeguards for Asia Project
