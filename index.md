@@ -35,11 +35,31 @@ Skills Used: R, ArcMap
 <img src="images/CI_Tool_Thumb.png?raw=true"/>
 
 [Code](https://github.com/gstonecipher/RestorationPlanningTool_CI)
+
 [Presentation](https://www.youtube.com/watch?v=ndg8_AyQPz0)
 
 Written for Conservation International
 
 Skills Used: Google Earth Engine, Javascript
+
+---
+[Jupyter Notebook: Pacific Crest Trail Planning App](https://github.com/gstonecipher/GEOG_489_FinalProject)
+<img src="images/PCT_Notebook_Thumb.png?raw=true"/>
+
+Written for Penn State University GEOG 489: Advanced Python Programming for GIS
+
+Skills Used: Python, Jupyter Notebooks, ArcGIS API for Python, ArcGIS API for Javascript
+
+---
+[Jupyter Notebook: Mapping the Impacts of a Windstorm in Lewis & Clark National Park Using Multiple Change Detection Methods](https://github.com/gstonecipher/ENVIR_ST_956_FinalProject_ChangeDetection)
+<img src="images/Change_Detection_Thumb.png?raw=true"/>
+
+Written for University of Wisconsin-Madison ENVIR ST 956: 
+
+Skills Used: Python, Jupyter Notebooks
+
+---
+---
 
 ### Mapping
 
@@ -50,7 +70,6 @@ Built for Penn State University GEOG 863: Web Application Development for the Ge
 Skills Used: Javascript (ArcGIS API for Javascript), HTML, CSS
 
 ---
-
 [Visualizing Overlap of Linear Infrastructure and High Biodiversity Areas in the Mekong Region Using Open-Source Mapping Tools](https://gstonecipher.github.io/OpenWebMapping/index.html)
 <img src="images/Mekong_Thumb.png?raw=true"/>
 
@@ -59,7 +78,6 @@ Built for Penn State University GEOG 585: Open Web Mapping
 Skills Used: Tilemill (custom basemap creation), Leaflet, QGIS, OGR, GDAL
 
 ---
-
 [StoryMap: Using Remote Sensing to Examine the Great Coastal Gale in Coastal Oregon](https://storymaps.arcgis.com/stories/1b03a1859e2c43d68aae6d6b3cad4f02)
 
 <img src="images/NPS_StoryMap_Thumb.png?raw=true"/>
