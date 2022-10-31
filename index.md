@@ -67,6 +67,7 @@ Skills Used: Python, Jupyter Notebooks
 <img src="images/Roadkill_App_Thumb.png?raw=true"/>
 
 Built for Penn State University GEOG 863: Web Application Development for the Geospatial Professional
+
 Skills Used: Javascript (ArcGIS API for Javascript), HTML, CSS
 
 ---
