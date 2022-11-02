@@ -2,7 +2,7 @@
 
 ---
 
-### Spatial Analysis 
+## Spatial Analysis 
 
 
 ### [Script: Potential Impacts of Linear Infrastructure on Biodiversity in 28 Asian Countries](https://github.com/gstonecipher/LISA_LI_country_overlap)
@@ -30,11 +30,13 @@ Skills Used: R, ArcMap
 
 ---
 ### [Web App: Restoration Planning Tool](https://trends-earth.earthengine.app/view/restorationplanningtool)
-<img src="images/CI_Tool_Thumb.png?raw=true"/>
 
 #### [Code](https://github.com/gstonecipher/RestorationPlanningTool_CI)
 
 #### [Presentation](https://www.youtube.com/watch?v=ndg8_AyQPz0)
+<img src="images/CI_Tool_Thumb.png?raw=true"/>
+
+
 
 Written for Conservation International
 
@@ -59,7 +61,7 @@ Skills Used: Python, Jupyter Notebooks
 ---
 ---
 
-### Mapping
+## Mapping
 
 ### [Visualizing Impacts to Wildlife Along NH-37 in Assam, India](https://www.personal.psu.edu/gcs5243/FinalProject/)
 <img src="images/Roadkill_App_Thumb.png?raw=true"/>
