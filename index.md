@@ -63,7 +63,7 @@ Skills Used: Python, Jupyter Notebooks
 
 ## Mapping
 
-### [Visualizing Impacts to Wildlife Along NH-37 in Assam, India](https://www.personal.psu.edu/gcs5243/FinalProject/)
+### [Visualizing Impacts to Wildlife Along NH-37 in Assam, India](https://gstonecipher.github.io/InteractiveWebMapping/index.html)
 <img src="images/Roadkill_App_Thumb.png?raw=true"/>
 
 Built for Penn State University GEOG 863: Web Application Development for the Geospatial Professional
