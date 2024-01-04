@@ -97,6 +97,14 @@ Built for the University of Wisconsin-Madison Nelson Institute of the Environmen
 Skills Used: ArcMap, Adobe Illustrator
 
 ---
+---
+
+## Writing
+
+### [Blog: Grace Hikes the PCT - A Big Walk Along the Pacific Crest Trail](https://gracesbigwalk.wordpress.com/)
+<img src="images/PCT_midpoint.png?raw=true"/>
+
+---
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
